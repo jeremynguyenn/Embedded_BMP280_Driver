@@ -1,2 +1,2 @@
 # BMP280_Driver
- Code a DRIVER in kernel space for BMP280, BMP180. RASPBERRY PI 3B+
+ Code a DRIVER in kernel space for BMP280, BMP180, TCS34725, GY86(MPU6050, HMC5883L, MS5611). RASPBERRY PI 3B and 4
