@@ -1,7 +1,3 @@
-// Huynh Tan Luong   21146267
-// Nguyen Chi Thanh  21146315
-// Nguyen Anh Tuan   21146570
-// Nguyen Minh Phuoc 21146297
 
 
 #define TCS34725_IOCTL_MAGIC 'm'
