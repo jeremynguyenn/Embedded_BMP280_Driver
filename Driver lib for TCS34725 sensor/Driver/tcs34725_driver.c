@@ -442,7 +442,7 @@ static void __exit tcs34725_exit(void)
 module_init(tcs34725_init);
 module_exit(tcs34725_exit);
 
-MODULE_AUTHOR("Your Name");
+MODULE_AUTHOR("NguyenTrungNhan");
 MODULE_DESCRIPTION("tcs34725 I2C Client Driver with IOCTL Interface");
 MODULE_LICENSE("GPL");
 
